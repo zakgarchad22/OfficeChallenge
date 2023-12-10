@@ -57,6 +57,7 @@ clean(){
 
 }
 
+
 class Office{
     constructor() {
         this.documents = []
